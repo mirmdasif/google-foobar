@@ -6,7 +6,7 @@ import java.util.*;
  * @author asif.hossain
  * @since 7/19/17.
  */
-public class Answer {
+public class Frequency {
     public static int[] answer(int[] data, int n) {
 
         // Your code goes here.
@@ -35,6 +35,6 @@ public class Answer {
     }
 
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(answer(new int[] {1, 2, 3}, 0)));
+        System.out.println(Arrays.toString(answer(new int[] {1, 2, 3}, 1)));
     }
 }
