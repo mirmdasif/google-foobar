@@ -2,3 +2,5 @@ build/
 .git/
 .idea/
 .gradle/
+out/
+*.iml
